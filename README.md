@@ -115,7 +115,6 @@ api.users.list({ limit: 3 }).then((response) => {
 ```
 <br>
 
-
 ## Options
 As the first argument when creating a new instance of Rails Ranger you can pass an object of options to customize the behavior of the client.
 
